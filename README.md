@@ -1,7 +1,3 @@
-<div align="center">
-    <img src="./images/CL Banner.png"/>
-</div>
-
 <h1 style="text-align:center">
     Music "Demixing" with Band-Split Recurrent Neural Network
 </h1>
